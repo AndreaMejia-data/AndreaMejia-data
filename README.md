@@ -56,4 +56,4 @@ I'm open to entry-level Data Analyst, Junior Data Analyst and related analytics 
 
 - 📍 London, UK
 - ✈️ Open to relocation to the United States
-- 💼 LinkedIn: Add LinkedIn profile link here
+- 💼 LinkedIn: https://www.linkedin.com/in/andrea-mejia-495a0123a/
